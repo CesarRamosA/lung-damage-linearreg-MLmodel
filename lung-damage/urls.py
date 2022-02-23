@@ -1,0 +1,1 @@
+lung_damage_url = 'https://exercise-sofia-bucket.s3.amazonaws.com/lung+damage.csv' 
